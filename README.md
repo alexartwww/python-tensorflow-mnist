@@ -11,8 +11,8 @@ This code based on https://www.tensorflow.org/tutorials/layers tutorial.
 sudo apt-get install python-pip python-dev
 sudo pip install tensorflow
 
-git clone https://github.com/alexartwww/python-fann-mnist.git
-cd python-fann-mnist
+git clone https://github.com/alexartwww/python-tensorflow-mnist.git
+cd python-tensorflow-mnist
 
 wget http://yann.lecun.com/exdb/mnist/train-images-idx3-ubyte.gz -O source/train-images.idx3-ubyte.gz
 gunzip source/train-images.idx3-ubyte.gz
